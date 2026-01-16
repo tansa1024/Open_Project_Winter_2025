@@ -1,0 +1,7 @@
+Quantum State Reconstruction Report
+===================================
+Model: Transformer (Classical Shadows)
+Qubits: 2
+Test Fidelity: 0.4997
+Test Trace Dist: 0.5846
+Inference Latency: 0.949 ms
