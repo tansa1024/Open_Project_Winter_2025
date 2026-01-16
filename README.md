@@ -28,3 +28,9 @@ A Deep Learning framework for reconstructing quantum states (density matrices) f
 
 ### License
 MIT
+
+---
+## Assignment Context
+# Open_Project_Winter_2025
+This repository outlines the Machine Learning for Quantum State Tomography programme.
+Refer to the [Project Outline](https://jajapuramshivasai.github.io/Open_Project_Winter_2025/) for details.
