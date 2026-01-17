@@ -1,0 +1,5 @@
+Final Test Metrics:
+  Fidelity: 0.4505
+  Trace Distance: 0.6391
+  Avg Latency: 12.863 ms/sample
+
